@@ -1,0 +1,21 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Large data files (optional)
+data/*.csv  # Exclude if the dataset is too large for GitHub
+
+# Output files (optional)
+outputs/*
