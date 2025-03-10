@@ -16,6 +16,3 @@ env/
 
 # Large data files (optional)
 data/*.csv  # Exclude if the dataset is too large for GitHub
-
-# Output files (optional)
-outputs/*
